@@ -1,0 +1,5 @@
+name: Hammer
+version: 0.9
+discription: Allows tools to become a hammer!
+author: Funniray
+main: io.github.funniray.hammer.hammer
